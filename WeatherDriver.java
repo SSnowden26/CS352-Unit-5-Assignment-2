@@ -1,6 +1,6 @@
 /**
  * @author John Cigas
- * Put your name and date and description here.
+ * Modified by Seth Snowden, 11/22/2026
  *
  * Runs the WeatherReport tests (the main method in WeatherReport).
  */

@@ -1,5 +1,7 @@
 # Unit 5 Assignment 2 – Written Answers
 
+Seth Snowden – 11/22/2026
+
 ## State of the project
 All parts of the assignment are implemented. `Temperature` stores only a city, state, low and high temperature, plus a `Differential()` method that returns the positive difference between them. `WeatherReport` has a no-argument constructor that builds a 10-item test list, and a file constructor that reads `weather.txt` (16,631 records) into a `LinkedList<Temperature>`. `isSortedByCity()` and `isSortedByHigh()` return false on the freshly loaded data. `sortWithCollections(by)` and `sortWithMerge(by)` both sort correctly by "City" or "High", and each list passes its `isSorted` check after sorting. Everything compiles and runs with no known bugs.
 

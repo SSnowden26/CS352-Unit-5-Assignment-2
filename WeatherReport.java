@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  * @author John Cigas
- * Put your name and date and description here.
+ * Modified by Seth Snowden, 11/22/2026
  *
  * Stores a linked list of Temperature objects and sorts it by city or by
  * high temperature, using either Collections.sort() or a custom merge sort.

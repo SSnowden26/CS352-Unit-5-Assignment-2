@@ -1,5 +1,6 @@
 /**
  * @author John Cigas
+ * Modified by Seth Snowden, 11/22/2026
  *
  * Stores low and high temperature data for a city/state
  */
